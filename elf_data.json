@@ -1,0 +1,22 @@
+{
+  "elves": [
+    {
+      "elfNumber": 1,
+      "name": "迪莫",
+      "generation": "暗夜拾光",
+      "type1": "光",
+      "type2": "",
+      "imageUrl": "https://raw.githubusercontent.com/NighterQAQ/roco_images/f86ee388690e4f9c61534ce2b0bbac00bcdc4c1d/Elf/di_mo.png",
+      "heightRange": "0.54m ~ 0.78m",
+      "weightRange": "5.5kg ~ 7.0kg",
+      "species": "这是关于勇气的故事，他很脆弱却也不曾退缩;这是关于梦想的故事，梦很简单却也执着。这就是我，迪莫。",
+      "abilityName": "最好的伙伴",
+      "abilityDescription": "造成克制伤害后，获得攻防速+20%，并回复2能量。",
+      "hp": 120,
+      "attack": 80,
+      "magicAttack": 80,
+      "defense": 105,
+      "magicDefense": 105,
+      "speed": 92,
+      "companionSkills": ["闪光", "光刃"]
+    }
