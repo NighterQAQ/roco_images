@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "name": "闪光",
+      "type": "光",
+      "category": "物攻",
+      "power": 60,
+      "energy": 1,
+      "description": "对敌方精灵造成魔法伤害"
+    },
+    {
+      "name": "光刃",
+      "type": "光",
+      "category": "物攻",
+      "power": 120,
+      "energy": 4,
+      "description": "对敌方精灵造成物理伤害"
+    }
+}
